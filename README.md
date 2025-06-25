@@ -1,4 +1,4 @@
-#🦺 Fall Detection & Airbag Deployment Vest
+#Fall Detection & Airbag Deployment Vest
 An IoT-based wearable safety system that detects sudden falls in elderly or mobility-impaired individuals and immediately deploys an airbag using a chemical reaction, while also sending a real-time alert via Telegram.
 
 📌 Features:
